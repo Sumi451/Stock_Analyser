@@ -20,7 +20,7 @@ git clone https://github.com/yourusername/stock-analyzer.git
 cd stock-analyzer
 ```
 
-### 2️⃣ Backend Setup (Flask API)
+### 2️⃣ Backend Setup (Flask API)(This can be found on my Github page as Indian_Stock_Market_Scraper_api or similar name)
 ```sh
 cd backend
 pip install -r requirements.txt
